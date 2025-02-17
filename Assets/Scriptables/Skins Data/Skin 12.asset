@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 097d7e19e465e7041aae4c820c840a1c, type: 3}
+  m_Name: Skin 12
+  m_EditorClassIdentifier: 
+  <Price>k__BackingField: 600
+  <IdleSprite>k__BackingField: {fileID: 789620039, guid: dfbdf131410e71847a15b8f9dc130140, type: 3}
+  <FlySprite>k__BackingField: {fileID: -943781474, guid: dfbdf131410e71847a15b8f9dc130140, type: 3}
+  <TraceColor>k__BackingField:
+    serializedVersion: 2
+    key0: {r: 0.3474025, g: 0.6603774, b: 0, a: 1}
+    key1: {r: 1, g: 0.028301716, b: 0.07045054, a: 0.9794118}
+    key2: {r: 0.9685534, g: 0.46600202, b: 0.48773405, a: 0.74018764}
+    key3: {r: 0.3307296, g: 0.117721796, b: 0.12771204, a: 1}
+    key4: {r: 0.2830189, g: 0.0916696, b: 0.10078152, a: 0}
+    key5: {r: 1, g: 1, b: 1, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 3470
+    ctime1: 22359
+    ctime2: 36494
+    ctime3: 47417
+    ctime4: 51272
+    ctime5: 65535
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 20817
+    atime2: 41120
+    atime3: 54356
+    atime4: 65535
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_ColorSpace: -1
+    m_NumColorKeys: 6
+    m_NumAlphaKeys: 5
